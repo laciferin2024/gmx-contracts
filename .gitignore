@@ -27,3 +27,6 @@ out/
 cache
 artifacts
 artifacts-v2/build-info
+
+.env
+.idea/
